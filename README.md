@@ -10,7 +10,7 @@ You can get the lastest version from [here](https://github.com/DT3264/BatchFileR
 
 It asumes you're matchingfiles in the path (and sub-paths if recursive) where the .exe is located
 ```bash
-BatchFileRenamer patternToMatch patternToReplace
+BatchFileRenamer patternToMatch patternToReplace [-r (Y|N)]
 ```
 
 ## Contributing
