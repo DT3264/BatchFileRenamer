@@ -4,7 +4,7 @@ Rename multiple files that matches a pattern at the same time
 
 ## Download
 
-You can get the lastest version from [here](https://github.com/DT3264/BatchFileRenamer/releases/tag/v1.0) to install foobar.
+You can get the lastest version from [here](https://github.com/DT3264/BatchFileRenamer/releases/tag/v1.0), you can either open it from the explorer or from tha bash.
 
 ## Usage
 
